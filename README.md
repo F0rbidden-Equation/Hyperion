@@ -3,6 +3,7 @@
 # Presentations :
 
    The program hyperion is a program called "Automate", playing the role of Swiss Knife in step of recognition, pentesting .
+   
    This one, gathers several programs in 1 only, to facilitate the so-called "passive" Pentesting step. The objective is to facilitate
    the testing of networks, machines, services, as well as the detection of potential security flaws constituting the audited network.
 
@@ -76,3 +77,11 @@ Menu Selection Module
 [7] Scan Advanced Network :
 
 ![page8_hyperion](https://user-images.githubusercontent.com/59021489/71563484-7a13da00-2a90-11ea-8975-6bb21490a81c.jpeg)
+
+[8] Scan Default Xss, Sql, Csrf, backup, blindsql, module nikto ... :
+
+![page9_hyperion(1)](https://user-images.githubusercontent.com/59021489/71563597-9c0e5c00-2a92-11ea-9240-0f615bf05658.jpg)
+
+[9] Scan Pages Defaults (php) > SQL Injection  :
+
+![page10_hyperion](https://user-images.githubusercontent.com/59021489/71563599-9f094c80-2a92-11ea-9e00-c189c352e389.jpg)

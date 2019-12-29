@@ -8,9 +8,9 @@
 
 ## The program consists of 15 modules (functions) which are as follows :
 
-
+```diff
 ```bash
-     1) Scan infos Server       : DNS* scan scanner as well as DNS* information (Ip address, locations, date...)
+     -1) Scan infos Server       : DNS* scan scanner as well as DNS* information (Ip address, locations, date...)
      2) Scan Analysis Anonymat  : Scan by scanner, allows to determine if the target server uses Tor networks
      3) Test Version Servers    : Send request http, on port 80/443 to determine the version of the audited server
      4) Scan Security Servers   : Scanner security detections type: Waff firewall, information on security/security used
@@ -28,7 +28,7 @@
 
 
 
-
+```
 ```
 
 ## Installation

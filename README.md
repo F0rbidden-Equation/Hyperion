@@ -80,7 +80,6 @@ Menu Selection Module
 
 [8] Scan Default Xss, Sql, Csrf, backup, blindsql, module nikto ... :
 
-![page9_hyperion(1)](https://user-images.githubusercontent.com/59021489/71563597-9c0e5c00-2a92-11ea-9240-0f615bf05658.jpg)
 
 [9] Scan Pages Defaults (php) > SQL Injection  :
 

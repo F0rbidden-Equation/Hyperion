@@ -1,7 +1,9 @@
 # Hyperion
-# Foobar
+# Presentations :
 
-Foobar is a Python library for dealing with word pluralization.
+   The program hyperion is a program called "Automate", playing the role of Swiss Knife in step of recognition, pentesting .
+   This one, gathers several programs in 1 only, to facilitate the so-called "passive" Pentesting step. The objective is to facilitate
+   the testing of networks, machines, services, as well as the detection of potential security flaws constituting the audited network.
 
 ## Installation
 

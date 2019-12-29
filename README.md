@@ -51,4 +51,4 @@ Linux Platform Installation Guide :
 ```
 
 ## # Graphical presentations, modules in the Hyperion program :
-![Screenshot](/home/lazarusasus/Hyperion/hyperion.png)
+![Salam1-articleLarge](https://user-images.githubusercontent.com/59021489/71563083-3e761180-2a8a-11ea-8c07-fa4e30a73b7e.jpg)

@@ -39,13 +39,13 @@ Linux Platform Installation Guide :
      > Install
      # Ubuntu 18
      cd Hyperion
-     sudo chmod + hyperion_Ubuntu_install.py
+     sudo chmod +x hyperion_Ubuntu_install.py
      sudo python3 hyperion_project.py
  
      > Install
      # Kali Linux 2019
      cd Hyperion
-     sudo chmod + hyperion_kali_install.py
+     sudo chmod +x hyperion_kali_install.py
      sudo python3 hyperion_project.py
 
 ```

@@ -53,3 +53,6 @@ Linux Platform Installation Guide :
 ## Graphical presentations, modules in the Hyperion program :
 Menu Selection Module 
 ![hyperion](https://user-images.githubusercontent.com/59021489/71563132-db38af00-2a8a-11ea-92f6-316c4a008389.jpeg)
+
+[1] Menu Scan Infos Network :
+![page2_hyperion](https://user-images.githubusercontent.com/59021489/71563272-e4c31680-2a8c-11ea-8ef7-d15ce67036ba.jpeg)

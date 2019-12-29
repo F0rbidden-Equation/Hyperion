@@ -60,3 +60,8 @@ Menu Selection Module
 [2] Menu Anonymat Servers :
 ![page3_hyperion](https://user-images.githubusercontent.com/59021489/71563322-0e307200-2a8e-11ea-805e-e0a6c5408ea5.jpeg)
 
+[3] Scan Security Servers :
+![page4_hyperion](https://user-images.githubusercontent.com/59021489/71563410-2785ee00-2a8f-11ea-8678-7d51f9d86653.jpeg)
+
+[4] Scan Admin Panels Servers :
+![page5_hyperion](https://user-images.githubusercontent.com/59021489/71563411-2c4aa200-2a8f-11ea-977c-3b5d79aa1322.jpeg)

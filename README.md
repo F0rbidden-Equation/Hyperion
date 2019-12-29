@@ -53,9 +53,17 @@ Menu Selection Module
 [2] Menu Anonymat Servers :
 ![page3_hyperion](https://user-images.githubusercontent.com/59021489/71563322-0e307200-2a8e-11ea-805e-e0a6c5408ea5.jpeg)
 
-[3] Scan Security Servers :
+[3] Menu Test Version Servers :
 ![page4_hyperion](https://user-images.githubusercontent.com/59021489/71563410-2785ee00-2a8f-11ea-8678-7d51f9d86653.jpeg)
 
-[4] Scan Admin Panels Servers :
+[4] Scan Security Servers :
 
 ![page5_hyperion](https://user-images.githubusercontent.com/59021489/71563411-2c4aa200-2a8f-11ea-977c-3b5d79aa1322.jpeg)
+
+
+[5] Scan Admin Panels Servers :
+![page6_hyperion](https://user-images.githubusercontent.com/59021489/71563478-754f2600-2a90-11ea-83c1-7986ab3999ea.jpeg)
+[6] Scan CVE Servers :
+![page7_hyperion](https://user-images.githubusercontent.com/59021489/71563479-7718e980-2a90-11ea-8529-35292a95f9a6.jpeg)
+[7] Scan Advanced Network :
+![page8_hyperion](https://user-images.githubusercontent.com/59021489/71563484-7a13da00-2a90-11ea-8975-6bb21490a81c.jpeg)

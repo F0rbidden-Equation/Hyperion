@@ -84,4 +84,3 @@ Menu Selection Module
 
 [9] Scan Pages Defaults (php) > SQL Injection  :
 
-![page10_hyperion](https://user-images.githubusercontent.com/59021489/71563599-9f094c80-2a92-11ea-9e00-c189c352e389.jpg)

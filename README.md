@@ -83,3 +83,4 @@ Menu Selection Module
 
 [9] Scan Pages Defaults (php) > SQL Injection  :
 
+![page10_hyperionnews](https://user-images.githubusercontent.com/59021489/71624294-0eda1d00-2be2-11ea-8785-1f9f80e312a1.jpeg)

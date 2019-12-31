@@ -1,4 +1,4 @@
-# Project Hyperion
+# Project Hyperion 
 
 # Presentations :
 
@@ -21,7 +21,7 @@
     10) Recoon Bruteforce       : Analysis of communication services,  recognition by "open" ports, such as: SSH,FTP,Telnet,...
     11) Google Dork Research    : Vulnerable servers search via google using the "Dork" search method.
     12) Research Emails         : Search potentially active emails from a name, nickname, ...
-    13) Detected Type DB/...    : Version Identification
+    13) Detected Type DB/...    : Version Identification DataBases by analyse of ports , services type DB
     14) DNS Brute Force         : Secondary Adress DNS search assigned to the audited DNS* by forced raw method
     15) Profilers Password      : allows you to create a password list, using "Profilers" methods, personal info
 

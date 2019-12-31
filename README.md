@@ -86,3 +86,27 @@ Menu Selection Module
 [9] Scan Pages Defaults (php) > SQL Injection  :
 
 ![page10_hyperionnews](https://user-images.githubusercontent.com/59021489/71624294-0eda1d00-2be2-11ea-8785-1f9f80e312a1.jpeg)
+
+[10] Recoon BruteForce
+
+![hyperion10](https://user-images.githubusercontent.com/59021489/71625483-5e234c00-2be8-11ea-9488-3d2ae416db44.jpg)
+
+[11] Research Google Dork 
+
+![hyprion11](https://user-images.githubusercontent.com/59021489/71625485-5fed0f80-2be8-11ea-9651-c8d504da7dc1.jpg)
+
+[12] Research Emails
+
+![hyperion12](https://user-images.githubusercontent.com/59021489/71625486-624f6980-2be8-11ea-88b7-185b346d5ded.jpg)
+
+[13] Detected Type DataBase
+
+![hyprion13](https://user-images.githubusercontent.com/59021489/71625487-63809680-2be8-11ea-8ea2-53d7317d90a3.jpg)
+
+[14] DNS Brute Force
+
+![hyperion14](https://user-images.githubusercontent.com/59021489/71625490-654a5a00-2be8-11ea-8ace-6239b180a1be.jpg)
+
+[15] Profils Password
+
+![hyperion15](https://user-images.githubusercontent.com/59021489/71625494-667b8700-2be8-11ea-9e8a-6b0d51284e89.jpg)

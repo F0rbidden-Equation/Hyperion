@@ -41,7 +41,7 @@ Linux Platform Installation Guide :
      # Kali Linux 2019
      cd Hyperion
      sudo chmod +x Install_Hyperion_kali.py
-     udo python3 Install_Hyperion_kali.py
+     sudo python3 Install_Hyperion_kali.py
      sudo python3 Hyperion_Kali.py
 
 ```

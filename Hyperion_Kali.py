@@ -1,5 +1,7 @@
+#!/usr/bin/python 3
 # -*- coding: utf-8 -*-
-import socket
+
+mport socket
 import sys
 import subprocess
 from urllib.request import urlopen

@@ -72,7 +72,7 @@ Menu Selection Module
 
 ![page6_hyperion](https://user-images.githubusercontent.com/59021489/71563478-754f2600-2a90-11ea-83c1-7986ab3999ea.jpeg)
 
-[6] Scan CVE Servers :
+![#f03c15][6] Scan CVE Servers :
 
 ![page7_hyperion](https://user-images.githubusercontent.com/59021489/71563479-7718e980-2a90-11ea-8529-35292a95f9a6.jpeg)
 

@@ -1,3 +1,7 @@
+#!/usr/bin/python 3
+# -*- coding: utf-8 -*-
+
+
 import os
 import subprocess as sb
 

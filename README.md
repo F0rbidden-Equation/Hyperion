@@ -29,16 +29,19 @@
 
 ```python
 Linux Platform Installation Guide :
-   
+
+*Download: git clone https://github.com/F0rbidden-Equation/Hyperion.git
+
+
      > Install
-     # Ubuntu 18
+     # *Ubuntu 18*
      cd Hyperion
      sudo chmod +x Install_Hyperion_Ubuntu.py
      sudo python3 Install_Hyperion_Ubuntu.py
      sudo python3 Hyperion_Ubuntu.py
  
      > Install
-     # Kali Linux 2019
+     # *ali Linux 2019*
      cd Hyperion
      sudo chmod +x Install_Hyperion_kali.py
      sudo python3 Install_Hyperion_kali.py

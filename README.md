@@ -40,6 +40,7 @@ Linux Platform Installation Guide :
      cd Hyperion
      sudo chmod +x Install_Hyperion_Ubuntu.py
      sudo python3 Install_Hyperion_Ubuntu.py
+     sudo apt-get update && upgrade
      sudo chmod +x Hyperion_Ubuntu.py
      sudo python3 Hyperion_Ubuntu.py
  
@@ -48,9 +49,9 @@ Linux Platform Installation Guide :
      
      sudo apt-get update && upgrade
      cd Hyperion
-     sudo apt-get update && upgrade
      sudo chmod +x Install_Hyperion_kali.py
      sudo python3 Install_Hyperion_kali.py
+     sudo apt-get update && upgrade
      sudo chmod +x Hyperion_kali.py
      sudo python3 Hyperion_Kali.py
 

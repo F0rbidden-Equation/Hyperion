@@ -124,3 +124,5 @@ Menu Selection Module
 [15] Profils Password
 
 ![hyperion15](https://user-images.githubusercontent.com/59021489/71625494-667b8700-2be8-11ea-9e8a-6b0d51284e89.jpg)
+
+color.Cyan("Prints text in cyan.")

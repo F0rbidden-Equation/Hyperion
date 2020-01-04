@@ -59,8 +59,7 @@ Linux Platform Installation Guide :
      sudo python3 Hyperion_Kali.py
 
 ```
-
-![Graph](https://user-images.githubusercontent.com/59021489/71766373-bbc4da80-2eff-11ea-9826-08d54597407c.jpg)
+![Graphview](https://user-images.githubusercontent.com/59021489/71766494-ac925c80-2f00-11ea-9770-06b662f29a75.jpg)
 Menu Selection Module 
 
 ![Hyperion_news1-ConvertImage](https://user-images.githubusercontent.com/59021489/71623856-94100280-2bdf-11ea-89b9-ed377abbc837.jpg)

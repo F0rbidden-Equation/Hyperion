@@ -28,7 +28,7 @@
     14) DNS Brute Force         : Secondary Adress DNS search assigned to the audited DNS* by forced raw method
     15) Profilers Password      : allows you to create a password list, using "Profilers" methods, personal info
 
-![install2](https://user-images.githubusercontent.com/59021489/71766325-16aa0200-2eff-11ea-97ca-04a8046bded3.jpg)
+![install3](https://user-images.githubusercontent.com/59021489/71766548-48bc6380-2f01-11ea-9ea0-f5cd267358d4.jpg)
 
 ```python
 Linux Platform Installation Guide :

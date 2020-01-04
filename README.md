@@ -60,7 +60,7 @@ Linux Platform Installation Guide :
 
 ```
 
-## Graphical presentations, modules in the Hyperion program :
+![Graph](https://user-images.githubusercontent.com/59021489/71766373-bbc4da80-2eff-11ea-9826-08d54597407c.jpg)
 Menu Selection Module 
 
 ![Hyperion_news1-ConvertImage](https://user-images.githubusercontent.com/59021489/71623856-94100280-2bdf-11ea-89b9-ed377abbc837.jpg)

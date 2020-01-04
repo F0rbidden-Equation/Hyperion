@@ -1,4 +1,4 @@
-          ![hyper](https://user-images.githubusercontent.com/59021489/71765768-997b8e80-2ef8-11ea-9a60-6a20e3b3ca9f.jpg)
+![hyper](https://user-images.githubusercontent.com/59021489/71765768-997b8e80-2ef8-11ea-9a60-6a20e3b3ca9f.jpg)
 
 
 # Presentations :

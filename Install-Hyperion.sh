@@ -1,4 +1,3 @@
-
 #!/bin/bash
  
 apt-get install git python3  python3-pip  nmap wapiti

@@ -1,13 +1,15 @@
 #!/bin/bash
  
-apt-get install git python3  python3-pip  nmap wapiti wafw00f
+apt-get install git python3  python3-pip  nmap wapiti wafw00f python-pycurl
 pip3 install python-whois google colorama urllib3 termcolor geoip2 colorama tldextract fierce
-pip install BeautifulSoup termcolor
- 
- 
+pip install BeautifulSoup termcolor nyawc bs4 terminaltables pycurl
+
+apt-get update && apt-get upgrade
+
 
  
 wafw00f https://example.org
+
 cd /bin
 git clone https://github.com/the-robot/sqliv.git
 cd sqliv
@@ -19,7 +21,7 @@ python sqliv.py -t www.example.com/index.php?id=1
 git clone https://github.com/laramies/theHarvester
 cd theHarvester
 python3.7 -m pip install -r requirements.txt
-python3.7 theHarvester.py -h
+theHarvester
  
  
 git clone https://github.com/Mebus/cupp

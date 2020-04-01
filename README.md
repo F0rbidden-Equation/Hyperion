@@ -1,7 +1,5 @@
 ![hyper7](https://user-images.githubusercontent.com/59021489/71768858-b45efa80-2f1a-11ea-861e-98a064ecdc41.jpg)
 
-### Not Download programming loading ........ Patient PLease the code is verify and termined , thanks (version 2.0)
-
 
 ![present4](https://user-images.githubusercontent.com/59021489/71766591-b799bc80-2f01-11ea-980c-b2cd959013bd.jpg)
 

@@ -1,4 +1,4 @@
-![page_presentations_HYP6](https://user-images.githubusercontent.com/59021489/80230434-3c941780-8652-11ea-98eb-a173f256a808.jpg)
+
 
 
 

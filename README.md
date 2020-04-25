@@ -1,4 +1,5 @@
 
+![page_presentations_HYP10](https://user-images.githubusercontent.com/59021489/80275441-80822d80-86e1-11ea-9945-565043f937f8.jpg)
 
 ```python
 Linux Platform Installation Guide :

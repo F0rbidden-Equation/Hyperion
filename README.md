@@ -18,11 +18,5 @@ Linux Platform Installation Guide , Installations in *2* step :
       cd Hyperionv2
       cd Install_Hyperion
       python3 Install_Hyperionv2.py
-      
-      
-     
-
 ```
-![Graphview](https://user-images.githubusercontent.com/59021489/71766494-ac925c80-2f00-11ea-9770-06b662f29a75.jpg)
-
-Menu Selection Module 
+Graphic view for installations step2 for the Hyperion Program : 

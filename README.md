@@ -20,3 +20,4 @@ Linux Platform Installation Guide , Installations in *2* step :
       python3 Install_Hyperionv2.py
 ```
 Graphic view for installations step2 for the Hyperion Program : 
+![Capture d’écran vidéo de 25-04-2020 11_27_43](https://user-images.githubusercontent.com/59021489/80276304-25a00480-86e8-11ea-8104-1df4af478221.gif)

@@ -1,10 +1,6 @@
 ![page_presentations_HYP13](https://user-images.githubusercontent.com/59021489/80277231-ed032980-86ed-11ea-919b-e371d357fa4f.jpg)
 ![Capture d’écran vidéo de 25-04-2020 11_40_20(1)](https://user-images.githubusercontent.com/59021489/80276583-0904cc00-86ea-11ea-9f61-88995cbdb7d8.gif)
 ```python
-
-PLease !! not downloading for this day 27 april 2020 , verifications ..... update 
-
-
 Linux Platform Installation Guide , Installations in *3* step :
      > Install step [1]
      # Ubuntu 18 , Kali Linux ,...

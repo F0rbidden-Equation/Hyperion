@@ -183,6 +183,7 @@ class Ui_fenetre3(object):
         subprocess.call("pip install wafw00f ", shell=True)
         subprocess.call("pip3 install python-whois", shell=True)
         self.progressBar.setProperty("value", 70)
+        subprocess.call("pip3 install colorama termcolor", shell=True)
         self.progressBar.setProperty("value", 80)
         subprocess.call("cd /usr/share/nmap/scripts/ && sudo git clone https://github.com/vulnersCom/nmap-vulners.git ", shell=True)
         subprocess.call("cd /usr/share/nmap/scripts/ && sudo git clone https://github.com/scipag/vulscan.git ", shell=True)

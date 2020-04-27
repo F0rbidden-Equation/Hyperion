@@ -519,6 +519,7 @@ class Controller:
 
         dns = self.ui.lineEdit.text()  ## ok !!!!!
         print(dns)
+        print(colored("[*] ---> patient please !! ...  1/2 minutes scanning building Map from DNS target [Mapping Network] !!", 'blue'))
         verifdns = os.system("ping -c 1 " + dns)
         if verifdns == 0:
             ip = (socket.gethostbyname(dns))

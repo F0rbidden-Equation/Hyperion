@@ -1,0 +1,35 @@
+NS: ns5.linode.com. ns4.linode.com. ns2.linode.com. ns1.linode.com. ns3.linode.com.
+SOA: ns1.linode.com. (162.159.27.72)
+Zone: failure
+Wildcard: 45.33.49.119
+Starting Nmap 7.70 ( https://nmap.org ) at 2020-04-27 15:51 CEST
+Nmap scan report for nmap.org (45.33.49.119)
+Host is up (0.18s latency).
+Other addresses for nmap.org (not scanned): 2600:3c01::f03c:91ff:fe98:ff4e
+rDNS record for 45.33.49.119: ack.nmap.org
+Not shown: 993 filtered ports
+PORT      STATE  SERVICE
+22/tcp    open   ssh
+25/tcp    closed smtp
+70/tcp    closed gopher
+80/tcp    open   http
+113/tcp   closed ident
+443/tcp   open   https
+31337/tcp closed Elite
+
+Nmap done: 1 IP address (1 host up) scanned in 11.70 seconds
+
+#### Scanners Informations Principal ##################### 
+|-----> Emails : ['support@fabulous.com', 'abuse@fabulous.com', 'nmap.org-registrant@fabulouswhoiscompliance.com', 'nmap.org-admin@fabulouswhoiscompliance.com', 'nmap.org-tech@fabulouswhoiscompliance.com']
+|-----> Dns Secondary : unsigned
+|-----> Name : None
+|-----> Corporations : Insecure.Com LLC
+|-----> Adress : None
+|-----> City : None
+|-----> State : WA
+|-----> Zip : None
+|-----> Country : US
+|-----> Names Servers : ['NS1.LINODE.COM', 'NS2.LINODE.COM', 'NS3.LINODE.COM', 'NS4.LINODE.COM', 'NS5.LINODE.COM', 'ns5.linode.com', 'ns1.linode.com', 'ns2.linode.com', 'ns3.linode.com', 'ns4.linode.com']
+|-----> Creation Date Servers : [datetime.datetime(1999, 1, 18, 5, 0), datetime.datetime(1999, 1, 17, 23, 0)]
+|-----> Last Update Date Servers : [datetime.datetime(2020, 1, 14, 5, 38, 40), datetime.datetime(2020, 1, 13, 23, 38, 40)]
+|-----> Expirations Date Servers : [datetime.datetime(2028, 1, 18, 5, 0), datetime.datetime(2028, 1, 17, 23, 0)]

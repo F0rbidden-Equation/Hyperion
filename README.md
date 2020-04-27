@@ -28,11 +28,7 @@ Linux Platform Installation Guide , Installations in *3* step :
       cd Hyperion_v2
       git clone https://github.com/s0md3v/Photon.git
       python3 Hyperion_v2.py
-      
-      
-
+            
 ```
-
-
 Graphic view for installations step2 for the Hyperion Program : 
 ![Capture d’écran vidéo de 25-04-2020 11_27_43](https://user-images.githubusercontent.com/59021489/80276304-25a00480-86e8-11ea-8104-1df4af478221.gif)

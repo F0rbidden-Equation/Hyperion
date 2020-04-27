@@ -5,7 +5,7 @@
 PLease !! not downloading for this day 27 april 2020 , verifications ..... update 
 
 
-Linux Platform Installation Guide , Installations in *2* step :
+Linux Platform Installation Guide , Installations in *3* step :
      > Install step [1]
      # Ubuntu 18 , Kali Linux ,...
      
@@ -22,6 +22,16 @@ Linux Platform Installation Guide , Installations in *2* step :
       cd Hyperion
       cd Install_Hyperion
       python3 Install_Hyperionv2.py
+      
+      > Install step [3]
+      cd
+      cd Hyperion_v2
+      git clone https://github.com/s0md3v/Photon.git
+      
+      
+
 ```
+
+
 Graphic view for installations step2 for the Hyperion Program : 
 ![Capture d’écran vidéo de 25-04-2020 11_27_43](https://user-images.githubusercontent.com/59021489/80276304-25a00480-86e8-11ea-8104-1df4af478221.gif)

@@ -1,16 +1,1 @@
-Report Detections Protocoles Network 'open' on the DNS Target : Microsoft SQL Server ,Pervasive SQL, Firebird & Interbase ,MySQL ,MariaDB ,PostgreSQL 
-------------------------------------------------------------------------------------------------------------------------
-|---> [+] Connecting to [45.33.49.119] | port: 1433
-[>> Test ... TCP Microsoft SQL Server port [1433]  
-|---> [+] Connecting to [45.33.49.119] | port: 1434
->> Test .. UDP Microsoft SQL port [1434]
-|---> [+] Connecting to [45.33.49.119] | port: 3306
->> Test .. TCP  [MySQL / MariaDB] port [3306]  
-|---> [+] Connecting to [45.33.49.119] | port: 1583
->> Test .. TCP [Pervasive SQL] port [1583]  
-|---> [+] Connecting to [45.33.49.119] | port: 3050
->> Test .. TCP [Firebird & Interbase] port [3050] 
-|---> [+] Connecting to [45.33.49.119] | port: 3351
->> Test .. TCP [Pervasive SQL] port [3351]  
-|---> [+] Connecting to [45.33.49.119] | port: 5432
->> Test .. TCP [PostgreSQL] port [5432]  
+

@@ -18,8 +18,8 @@ Linux Platform Installation Guide , Installations in *2* step :
      
      > Install step [2]
      *Download: git clone https://github.com/F0rbidden-Equation/Hyperion.git
-      sudo chmod 775 Hyperionv2
-      cd Hyperion_v2
+      sudo chmod 775 Hyperion
+      cd Hyperion
       cd Install_Hyperion
       python3 Install_Hyperionv2.py
 ```

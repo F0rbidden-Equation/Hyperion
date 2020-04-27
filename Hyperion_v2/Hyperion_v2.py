@@ -13,19 +13,6 @@ import os
 import whois
 import socket
 
-# -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'report_red.ui'
-#
-# Created by: PyQt5 UI code generator 5.12.1
-#
-# WARNING! All changes made in this file will be lost!
-
-from PyQt5 import QtCore, QtGui, QtWidgets
-
-
-
-
 class Ui_Report(object):
     def setupUi_report(self, report):
         report.setObjectName("Form")
@@ -317,7 +304,7 @@ class Controller:
             self.report = QtWidgets.QWidget()
             self.ui = Ui_Report()
             self.ui.setupUi_report(self.report)
-            text = open('Network.txt').read()
+            text = open('Fonctions_Network.txt').read()
             self.ui.textBrowser.setPlainText(text)
             self.report.show()
             self.ui.commandLinkButton.clicked.connect(self.close_Report_Analyse)

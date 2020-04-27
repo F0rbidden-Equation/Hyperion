@@ -181,7 +181,7 @@ class Ui_fenetre3(object):
         subprocess.call("pip install tld requests", shell=True)
         self.progressBar.setProperty("value", 50)
         subprocess.call("pip install wafw00f ", shell=True)
-        subprocess.call("pip3 install python-whois", shell=True)
+        subprocess.call("pip3 install python-whois tld requests", shell=True)
         self.progressBar.setProperty("value", 70)
         subprocess.call("pip3 install colorama termcolor", shell=True)
         self.progressBar.setProperty("value", 80)

@@ -528,6 +528,7 @@ class Controller:
             subprocess.call(["cd Photon &&  python3 photon.py -u " + dns," --dns"], shell=True)
             print(colored("[*] ---> Mapping Networking from DNS target: ok !", 'green'))
             print(colored("[*] -------------> Map Network DNS/Infos : Hyperionv2/Photon/", 'magenta'), dns)
+            return
         else:
             print(colored("[*] !!!! *Errors Dns* !!!!", 'red'))
 

@@ -1,4 +1,4 @@
-Hyperion version 3.0 in build , report html , news gui , news Menu ,.... patient please ..
+Hyperion version 3.0 in building , report html , news gui , news Menu ,.... patient please ..
 
 ![page_presentations_HYP13](https://user-images.githubusercontent.com/59021489/80277231-ed032980-86ed-11ea-919b-e371d357fa4f.jpg)
 ![Capture d’écran vidéo de 25-04-2020 11_40_20(1)](https://user-images.githubusercontent.com/59021489/80276583-0904cc00-86ea-11ea-9f61-88995cbdb7d8.gif)

@@ -10,6 +10,7 @@ Linux Platform Installation Guide , Installations in *3* step :
      
      sudo apt-get update && upgrade
      # Install PyQt5 Librairy Python3
+     sudo apt-get install python3.7
      sudo apt-get install python3-pyqt5  
      sudo apt-get install pyqt5-dev-tools
      sudo apt-get install qttools5-dev-tools
